@@ -206,7 +206,7 @@ export default function App() {
   }
 
   return null;
-}
+}22
 
 const styles = StyleSheet.create({
   container: {
